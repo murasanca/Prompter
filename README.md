@@ -30,6 +30,9 @@
 			<tr align="center">
 				<td><a href="https://chat.openai.com/share/62ce784e-0840-4c5d-aff0-11bb0bb1018d" target="_blank">Address to Turkish Youth</a></td>
 			</tr>
+			<tr align="center">
+				<td><a href="https://chat.openai.com/share/e56a7dd8-86fd-4758-ba65-cb92cbaf16c2" target="_blank">Address from Turkish Youth</a></td>
+			</tr>
 		</tbody>
 	</table>
 </p>
