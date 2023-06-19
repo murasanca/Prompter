@@ -21,7 +21,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://openai.com/blog/chatgpt" target="_blank">ChatGPT</a></td>
+			<td align="center"><a href="https://openai.com/chatgpt" target="_blank">ChatGPT</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://openai.com/gpt-4" target="_blank">GPT-4</a></td>
